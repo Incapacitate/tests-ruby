@@ -1,3 +1,7 @@
+Projet réalisé par :
+-Armand Duval (Urbain4)
+Dylan Langlois-Hérault (Dylan(Caen))
+
 Small exercices in Ruby -- RSpec 3 Edition
 ==========
 
